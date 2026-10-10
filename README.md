@@ -5,7 +5,7 @@ So... I made a python script that you can input Wikipedia links for articles, ei
 
 To use it, please input a Wikipedia page in the format, https://en.wikipedia.org/wiki/yourpagehere, and then choose either P or C depending on whether you want to have a custom endpoint or use philosophy.
 
-https://youtu.be/o9-dZyMrTuA watch it working here!
+[https://youtu.be/o9-dZyMrTuA](https://youtu.be/SfKU9cKbPHQ) watch it working here!
 
 ### Requirements
 
