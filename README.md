@@ -24,3 +24,9 @@ from bs4 import BeautifulSoup
 ### Credits
 
 Thanks to MostLime for organising the YSWS event, crawl, and allowing me to create this, and recieve FREE MINECRAFT!!!!!!!!!!!!!!
+
+### AI transparency
+I have used minimal amounts of AI within this project, only a few lines which required debugging, and only for things I was too lazy to do, rather than things I didn't know how to do
+
+<img width="1524" height="716" alt="Screenshot 2026-10-10 012910" src="https://github.com/user-attachments/assets/e0d52b61-099b-41e5-9449-64ad10299534" />
+
