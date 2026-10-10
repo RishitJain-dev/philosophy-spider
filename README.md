@@ -9,7 +9,7 @@ To use it, please input a Wikipedia page in the format, https://en.wikipedia.org
 
 ### Requirements
 
-It uses 3 main libraries, 1 of which, re, is included with python on install. The rest can be easily installed using pip in the terminal.
+It uses 3 main libraries, requests, beautiful soup and re, which is included with python on install. The rest can be easily installed using pip in the terminal.
 
 https://pypi.org/project/beautifulsoup4/
 
@@ -23,7 +23,7 @@ from bs4 import BeautifulSoup
 
 ### Credits
 
-Thanks to MostLime for organising the YSWS event, crawl, and allowing me to create this, and recieve FREE MINECRAFT!!!!!!!!!!!!!!
+Thanks to MostLime for organising the YSWS event, crawl, and allowing me to create this, and recieve ***FREE MINECRAFT!!!!!!!!!!!!!!***
 
 ### AI transparency
 I have used minimal amounts of AI within this project, only a few lines which required debugging, and only for things I was too lazy to do, rather than things I didn't know how to do
